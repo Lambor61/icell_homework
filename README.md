@@ -1,4 +1,4 @@
-# iCell Test Version 1 - React Native App
+# iCell Homework - React Native App
 
 React Native alkalmazás Expo-val, TypeScript-tel.
 
@@ -108,9 +108,4 @@ npx expo start -c
 ```bash
 rm -rf node_modules
 npm install
-```
-
-### Cache törlése
-```bash
-npx expo start -c
 ```
