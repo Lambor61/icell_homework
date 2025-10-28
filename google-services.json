@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999419481345",
+    "project_id": "icellhomework",
+    "storage_bucket": "icellhomework.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999419481345:android:8ca7fc57d55012b8a55f00",
+        "android_client_info": {
+          "package_name": "com.anonymous.icell_homework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMFl5R5D3TY55z4JMs7OYMWMhoanWzZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
