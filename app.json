@@ -23,7 +23,7 @@
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
       "package": "com.anonymous.icell_homework",
-			"googleServicesFile": "./android/app/google-services.json"
+			"googleServicesFile": "./google-services.json"
     },
 		"plugins": [
       "@react-native-firebase/app",
